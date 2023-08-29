@@ -1,0 +1,269 @@
+.App {
+  text-align: center;
+}
+
+.navbar{
+  background-color: #ccc7b9;
+  color: #fff;
+}
+
+.div1, .div2{
+  color: blue;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.text-indent{
+  text-indent: 1em;
+}
+
+.timevisit{
+
+  margin-top:50px ;
+  height: 300vh;
+}
+
+.timesec1{
+
+  /* background-color: green; */
+  height: 500px;
+ 
+}
+.timesec1img{
+
+  width: 50%;
+  float: left;
+  height: 350px;
+  margin-bottom: 25px !important;
+}
+
+.timesec1Acco{
+
+    float:  left;
+    width: 45%;
+    margin: 30px;
+    
+}
+
+.Accordion{
+
+    margin-top:40px ;
+    margin-left: 30px;
+}
+
+.timesec1AccoH5{
+
+  margin-left: 90px;
+  margin-top: -20px  !important;
+  width: 100% !important;
+  
+}
+
+.Accoimg1{
+
+
+   width: 500px;
+   height: 300px;
+}
+
+.imgbtmsec1{
+
+  margin-left:30px ;
+}
+
+.accoimgbtm{
+
+   margin-left: 200px;
+}
+
+.sec1para{
+
+  clear: both;
+  width: 100%;
+  text-align: justify;
+  text-indent: 120px;
+  margin-top: 30px;
+  margin-bottom:50px ;
+}
+
+.section2{
+
+  /* margin-top: 60px; */
+  display: flex;
+  justify-content: center;
+  width:100%;
+  height: 200px;
+  align-items: center;
+  
+}
+
+.section2 h5{
+
+    margin-left: 90px;
+    margin-top:10px ;
+} 
+
+
+.sec3{
+
+   /* background-color: aqua; */
+   height: 500px;
+   
+}
+
+.sec3box2{
+   
+  width: 50%;
+  /* background-color: burlywood; */
+  height: 500px;
+  float: left;
+  padding: 15px;
+
+}
+.sec3box2 h5{
+
+       margin-top: 30px;
+}
+
+.sec3box1{
+
+    width: 50%;
+    /* background-color: yellowgreen; */
+    height: 500px;
+    float: right;
+   
+}
+
+.sec3box2 p{
+
+    text-align: justify;
+    text-indent: 280px;
+} 
+
+ /* .offcanvasbox{
+
+     width: 90%;
+     height: 450px;
+      border: 1px green ; 
+      background-color: aqua;
+     display: flex ;
+     justify-content: center;
+     align-items: center;
+     margin-top: 20px;
+     margin-left: 30px;
+     border-radius:5px ;
+     border: 1px 1px red;
+} */
+
+.modalCardsize{
+
+    height: 400px;
+}
+.modalcard{
+
+    width: 100px;
+    margin-right: 3px;
+    height: 150px;
+}
+
+.imgcardtag{
+     width: 30%;
+     margin-right: 10px;
+     float: left;
+} 
+
+.imgcardtag p{
+   
+  margin-left: 5px;
+}
+
+.imgbox{
+
+     margin-left: 33px;
+}
+
+
+/* 
+section 4 */
+
+.sec4{
+
+  /* background-color: aqua; */
+  height: 500px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  
+}
+
+.sec4box2{
+  
+ width: 50%;
+ /* background-color: burlywood; */
+ height: 500px;
+ float: left;
+ padding: 15px;
+
+}
+.sec4box2 h5{
+
+      margin-top: 30px;
+}
+
+.sec4box1{
+
+   width: 50%;
+   /* background-color: yellowgreen; */
+   height: 500px;
+   float: left;
+  
+}
+
+.sec4box2 p{
+
+   text-align: justify;
+   text-indent: 280px;
+} 
+
+/* .offcanvasbox{
+
+    width: 90%;
+    height: 450px;
+     border: 1px green ; 
+     background-color: aqua;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius:5px ;
+    border: 1px 1px red;
+} */
+
+.modalCardsize2{
+
+   height: 270px;
+}
+.modalcard2{
+
+   width: 100px;
+   margin-right: 3px;
+   height: 150px;
+}
+
+.imgcardtag2{
+    width: 30%;
+    margin-right: 10px;
+    float: right;
+} 
+
+.imgcardtag2 p{
+  
+ margin-left: 5px;
+}
+
+.imgbox2{
+
+    margin-left: 33px;
+    
+}

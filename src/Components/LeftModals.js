@@ -3,7 +3,6 @@ import Modal from 'react-bootstrap/Modal';
 import LeftoffCanvas from './LeftoffCanvas';
 import OffCanvasExample from './LeftoffCanvas';
 
-7
 
 function StaticExample1() {
   return (

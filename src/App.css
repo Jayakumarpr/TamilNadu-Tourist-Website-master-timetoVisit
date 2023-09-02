@@ -267,3 +267,50 @@ section 4 */
     margin-left: 33px;
     
 }
+
+
+
+.App {
+  text-align: center;
+}
+
+.navbar{
+  background-color: #ccc7b9;
+  color: #fff;
+}
+
+.div1, .div2{
+  color: blue;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.text-move{
+  text-indent: 1em;
+}
+
+.class-modal{
+  z-index: 9999;
+}
+
+.canvas-modal{
+  z-index: 999;
+}
+.hide-modal{
+  z-index: 0;
+}
+
+.offcanvas-backdrop{
+  z-index: -1;
+}
+
+.button:hover{
+  background-color: rgb(219, 194, 194);
+  color: #fff;
+}
+
+.cardpack{
+
+   margin-left: 90px;
+}

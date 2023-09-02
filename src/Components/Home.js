@@ -12,13 +12,16 @@ import Madurai from './Madurai';
 import Yercaud from './Yercaud';
 import Theni from './Theni';
 import Hogenakkal from './Hogenakkal';
-// import Section2 from '../Section2'
+
 
 
 
 const Home = () => {
   return (
-    <>
+   
+    <div id='home'>
+
+    
     <Banner />
     <Section2 />
     <ScrollRouting />
@@ -32,7 +35,8 @@ const Home = () => {
     <Yercaud />
     <Theni />
     <Hogenakkal />
-    </>
+   
+    </div>
   )
 }
 
